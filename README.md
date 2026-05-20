@@ -52,11 +52,11 @@ Meu ecossistema de desenvolvimento focado em produtividade e qualidade:
 ### 🎨 Design & Visual
 Habilidades criativas que complementam meu perfil técnico, permitindo a criação de interfaces modernas e assets visuais:
 
-![Figma](https://img.shields.io/badge/Figma-2ea44f?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-2ea44f?style=for-the-badge&logo=Canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-2ea44f?style=for-the-badge&logo=Aseprite&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-2ea44f?style=for-the-badge&logo=gimp&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-2ea44f?style=for-the-badge&logo=Krita&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%232C2052.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%232C2052.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-%232C2052.svg?style=for-the-badge&logo=Aseprite&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-%232C2052.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-%232C2052.svg?style=for-the-badge&logo=Krita&logoColor=white)
 
 ---
 ---
