@@ -31,11 +31,11 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
 
-![Java](https://img.shields.io/badge/Java-2ea44f?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2ea44f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2ea44f?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2ea44f?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%232C2052.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%232C2052.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%232C2052.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%232C2052.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%232C2052.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
