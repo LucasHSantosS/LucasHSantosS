@@ -8,16 +8,16 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSantosTech&show_icons=true&theme=dark&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&count_private=true&include_all_commits=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasHSantosS&show_icons=true&theme=dark&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&count_private=true&include_all_commits=false" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantosTech&layout=compact&theme=dark&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&langs_count=10&hide=none&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHSantosS&layout=compact&theme=dark&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9&border_color=2ea44f&langs_count=10&hide=none&include_all_commits=true" />
 </p>
 
 ### 👽 Software Developer in Training <img alt="GITHUB" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 **Técnico em Desenvolvimento de Sistemas |Future Software Engineer**
                <h3 align="center">Back-End • UX/UI • Software Architecture</h3>
 ---
-![Idade](https://img.shields.io/badge/17_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
+![Idade](https://img.shields.io/badge/18_Anos-000?style=flat-square&logo=cakephp&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo_--_Brasil-000?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Estudante_Técnico-000?style=flat-square&logo=read-the-docs&logoColor=white)
 ---
@@ -75,8 +75,6 @@ Habilidades criativas que complementam meu perfil técnico, permitindo a criaç�
 
 <p align="center">
   <a href="mailto:GabrielSantosTech.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://gabrielsantosportfolio.netlify.app/"><img src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 
 ### 🚀 Let's code and make the future!
