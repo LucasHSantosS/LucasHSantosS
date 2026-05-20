@@ -64,7 +64,7 @@ Habilidades criativas que complementam meu perfil técnico, permitindo a criaç�
 ## 📬 Contato Rápido
 
 <p align="center">
-  <a href="mailto:GabrielSantosTech.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lh.santossilvaa@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
 ### 🚀 Let's code and make the future!
