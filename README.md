@@ -26,23 +26,13 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ---
 ### 🎓 Certificações / Cursos
 
-* **Ciência de Dados** - Alura
-* **Clusterização de Dados** - Alura
-* **Java Intermediario** - Fernanda Kipper
-* **Python Avançado** - Didatica Tech
-* **Teoria da  Ciência Computação** - Khan Academy
-* **JavaScript basico** - Khan Academy
-* **Machine Learning basico** - Alura
-* **PCA - Análise de componentes principais** - Alura
-* **Programação Orientada a Objetos em Python** - Hashtag
-
-
+* **Desenvolvimento de Sistemas** - Gov
+* **Python** - Tecnologo
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
 
 ![Java](https://img.shields.io/badge/Java-2ea44f?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2ea44f?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-2ea44f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2ea44f?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2ea44f?style=for-the-badge&logo=sqlite&logoColor=white)
