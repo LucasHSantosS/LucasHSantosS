@@ -41,7 +41,7 @@ Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnol
 
 ### 💻 Ferramentas & IDEs
 Meu ecossistema de desenvolvimento focado em produtividade e qualidade:
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Lucas](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-2ea44f?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-2ea44f?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-2ea44f?style=for-the-badge&logo=WebStorm&logoColor=white)
